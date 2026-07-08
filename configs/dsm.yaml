@@ -1,0 +1,8 @@
+defaults:
+  - default.yaml
+
+env:
+  task_name: DSM
+  scene: with_stenoses
+
+out_dir: runs/dhmarl_dsm

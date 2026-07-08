@@ -1,0 +1,9 @@
+defaults:
+  - default.yaml
+
+# 8-iteration smoke run to confirm the whole pipeline steps end-to-end.
+total_episodes: 8
+steps_per_rollout: 16
+workers: 1
+n_train: 4
+checkpoint_every: 100

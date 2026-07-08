@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "DH-MARL: Decentralized Hemodynamic-Aware Multi-Agent Reinforcement Learning for Micro-Robot Swarms"
+version: 0.1.0
+date-released: 2026-07-08
+license: MIT
+repository-code: "https://github.com/<your-username>/dh-marl"
+authors:
+  - family-names: Huynh
+    given-names: Truong Nhut
+    orcid: "https://orcid.org/0000-0000-0000-000X"
+    affiliation: "Florida Institute of Technology"
+  - family-names: Nguyen
+    given-names: Kim-Doang
+    orcid: "https://orcid.org/0000-0000-0000-000X"
+    affiliation: "Florida Institute of Technology"
+preferred-citation:
+  type: article
+  title: "Decentralized Learning and Control of Multi-Microrobots in Complex Hemodynamic Environments"
+  authors:
+    - family-names: Huynh
+      given-names: Truong Nhut
+    - family-names: Nguyen
+      given-names: Kim-Doang
+  journal: "Electronics"
+  year: 2026
+  publisher:
+    name: MDPI

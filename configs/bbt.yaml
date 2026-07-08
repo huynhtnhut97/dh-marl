@@ -1,0 +1,8 @@
+defaults:
+  - default.yaml
+
+env:
+  task_name: BBT
+  scene: with_bottleneck
+
+out_dir: runs/dhmarl_bbt

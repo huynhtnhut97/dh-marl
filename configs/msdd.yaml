@@ -1,0 +1,8 @@
+defaults:
+  - default.yaml
+
+env:
+  task_name: MSDD
+  scene: default
+
+out_dir: runs/dhmarl_msdd
