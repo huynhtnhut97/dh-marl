@@ -33,7 +33,7 @@ The production simulator described in the paper is a Unity build. To keep the re
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/dh-marl.git
+git clone https://github.com/huynhtnhut97/dh-marl.git
 cd dh-marl
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
